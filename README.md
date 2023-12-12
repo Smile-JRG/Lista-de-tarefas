@@ -1,6 +1,4 @@
 # Lista-de-tarefas
- 
-# Cadastro_Clinica_Medica
 
 <h1 align="center"> To do List - Aplicativo para controlar a execução de tarefas </h1>
 
